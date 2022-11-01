@@ -124,3 +124,22 @@
 * [x] 703.Kth Largest Element in a Stream
 * [x] 1962.Remove Stones to Minimize the Total
 * [x] 1167.Minimum Cost to Connect Sticks
+
+## Oct-31-2022 (contest and binary search)
+- [x] 2455.Average Value of Even Numbers That Are Divisible by Three
+- [x] 2456.Most Popular Video Creator
+- [x] 2457.Minimum Addition to Make Integer Beautiful
+- [x] 704.Binary Search
+- [x] 2300.successful pairs of spells and potions
+  
+
+## Nov-1-2022 (working on backtracking)
+* [ ] 46.permutation
+* [ ] 78.subsets
+* [ ] 77.combination
+* [ ] 797. All paths from sources to target
+* [ ] 17. Letter combinations of a phone number
+* [ ] 39.combination sum
+* [ ] 52. N-queens II
+* [ ] 79.word search
+* [ ] 967. Numbers With Same Consecutive Differences
