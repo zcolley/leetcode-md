@@ -126,20 +126,30 @@
 * [x] 1167.Minimum Cost to Connect Sticks
 
 ## Oct-31-2022 (contest and binary search)
+
 - [x] 2455.Average Value of Even Numbers That Are Divisible by Three
 - [x] 2456.Most Popular Video Creator
 - [x] 2457.Minimum Addition to Make Integer Beautiful
 - [x] 704.Binary Search
 - [x] 2300.successful pairs of spells and potions
-  
 
 ## Nov-1-2022 (working on backtracking)
-* [ ] 46.permutation
-* [ ] 78.subsets
-* [ ] 77.combination
-* [ ] 797. All paths from sources to target
-* [ ] 17. Letter combinations of a phone number
-* [ ] 39.combination sum
-* [ ] 52. N-queens II
-* [ ] 79.word search
-* [ ] 967. Numbers With Same Consecutive Differences
+
+- [ ] 46.permutation
+- [ ] 78.subsets
+- [ ] 77.combination
+- [ ] 797. All paths from sources to target
+- [ ] 17. Letter combinations of a phone number
+- [ ] 39.combination sum
+- [ ] 52. N-queens II
+- [ ] 79.word search
+- [ ] 967. Numbers With Same Consecutive Differences
+
+## Nov-2-2022 (working on microsoft tag)
+
+- [x] 1405. longest happy string
+
+* [x] 1386. cinema seat allocation
+* [x] 1822. sign of the product of an array
+* [x] 1304. Find N Unique Integers Sum up to Zero
+* [x] 1647. Minimum Deletions to Make Character Frequencies Unique
