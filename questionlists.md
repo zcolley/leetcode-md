@@ -147,9 +147,9 @@
 
 ## Nov-2-2022 (working on microsoft tag)
 
-- [x] 1405. longest happy string
+- [x] [1405. longest happy string](https://leetcode.com/problems/longest-happy-string/)
 
-* [x] 1386. cinema seat allocation
-* [x] 1822. sign of the product of an array
-* [x] 1304. Find N Unique Integers Sum up to Zero
-* [x] 1647. Minimum Deletions to Make Character Frequencies Unique
+* [x] [1386. cinema seat allocation](https://leetcode.com/problems/cinema-seat-allocation/)
+* [x] [1822. sign of the product of an array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
+* [x] [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
+* [x] [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
