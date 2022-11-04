@@ -153,3 +153,18 @@
 * [x] [1822. sign of the product of an array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
 * [x] [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 * [x] [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
+
+## Nov-3-2022 (working on microsoft tag)
+
+### Question of the day
+
+- [x] 345. Reverse Vowels of a String
+
+### Microsoft Tag
+
+- [x] 1615. Maximal Network Rank (review...)
+
+* [x] 146. LRU Cache (review...)
+* [x] 1647.https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
+* [x] 1404. Number of Steps to Reduce a Number in Binary Representation to One
+* [x] 151. Reverse Words in a String
