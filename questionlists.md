@@ -168,3 +168,11 @@
 * [x] 1647.https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
 * [x] 1404. Number of Steps to Reduce a Number in Binary Representation to One
 * [x] 151. Reverse Words in a String
+
+## Nov-4-2022 (working on microsoft tag)
+
+- [x] 2061. Number of Spaces Cleaning Robot Cleaned (review...)
+
+* [x] 285. Inorder Successor in BST
+* [ ] 545. Boundary of Binary Tree (review...)
+* [ ] 1275. Find Winner on a Tic Tac Toe Game
