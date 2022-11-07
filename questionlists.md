@@ -179,3 +179,16 @@
 * [ ] 186. Reverse Words in a String II
 * [ ] 17. Letter Combinations of a Phone Number(review..)
 * [ ] 1775. Equal Sum Arrays With Minimum Number of Operations
+
+## Nov-6-2022 (working on graph)
+
+- [x] 899.orderly queue
+
+* [x] 565. Array nesting
+* [x] 17. Letter Combinations of a Phone Number
+* [x] 138. Copy List with Random Pointer
+* [x] 547. Number of Provinces
+* [x] 695. Max Area of Island
+* [x] 733. Flood Fill
+* [x] 827. Making A Large Island
+* [x] 1162. As Far from Land as Possible
